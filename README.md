@@ -22,11 +22,11 @@
 <h3 align="center">Tools I Use:</h3>
 
 <p align="center">
-    <a href="https://www.cplusplus.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/C++_Logo.svg/600px-C++_Logo.svg.png" alt="C++" width="50" style="margin: 10px;"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/HTML5_logo_512.png" alt="HTML" width="50" style="margin: 10px;"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg" alt="CSS" width="50" style="margin: 10px;"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="50" style="margin: 10px;"/ </a>
-    <a href="https://ubuntu.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/4/47/Ubuntu_logo_2015.svg" alt="Ubuntu" width="50" style="margin: 10px;"/></a>
+    <a href="https://www.cplusplus.com/" target="_blank"><img src="./images/cpp.png" alt="C++" width="50" style="margin: 10px;"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="./images/html.png" alt="HTML" width="50" style="margin: 10px;"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="./images/css.png" alt="CSS" width="50" style="margin: 10px;"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./images/js.png" alt="JavaScript" width="50" style="margin: 10px;"/></a>
+    <a href="https://ubuntu.com/" target="_blank"><img src="./images/ubuntu.png" alt="Ubuntu" width="50" style="margin: 10px;"/></a>
 </p>
 
 <hr />
@@ -45,10 +45,14 @@
 
 <p align="center">
     <a href="https://github.com/ton-compte/projet1" target="_blank">
-        <button style="padding: 10px 20px; font-size: 16px; margin: 5px; background-color: #4CAF50; color: white; border: none; border-radius: 5px;">Project 1</button>
+        <button style="padding: 10px 20px; font-size: 16px; margin: 5px; background-color: #4CAF50; color: white; border: none; border-radius: 5px;">
+            <img src="./images/project_icon.png" alt="Project 1" width="20" style="vertical-align: middle; margin-right: 10px;"/> Project 1
+        </button>
     </a>
     <a href="https://github.com/ton-compte/projet2" target="_blank">
-        <button style="padding: 10px 20px; font-size: 16px; margin: 5px; background-color: #2196F3; color: white; border: none; border-radius: 5px;">Project 2</button>
+        <button style="padding: 10px 20px; font-size: 16px; margin: 5px; background-color: #2196F3; color: white; border: none; border-radius: 5px;">
+            <img src="./images/project_icon.png" alt="Project 2" width="20" style="vertical-align: middle; margin-right: 10px;"/> Project 2
+        </button>
     </a>
     <!-- Ajoute plus de projets de la même manière -->
 </p>
@@ -58,4 +62,3 @@
 <h3 align="center">Let's Connect!</h3>
 
 <p align="center">Feel free to reach out to me or explore my repositories. I’m always open to collaboration and learning new things!</p>
-
