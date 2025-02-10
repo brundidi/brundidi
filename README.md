@@ -24,8 +24,8 @@
 <p align="center">
     <a href="https://www.cplusplus.com/" target="_blank"><img src="./images/cpp.png" alt="C++" width="50" style="margin: 10px;"/></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="./images/html.png" alt="HTML" width="50" style="margin: 10px;"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="./images/css.png" alt="CSS" width="50" style="margin: 10px;"/></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./images/js.png" alt="JavaScript" width="50" style="margin: 10px;"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="./images/cs.png" alt="CSS" width="50" style="margin: 10px;"/></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="./images/JS.png" alt="JavaScript" width="50" style="margin: 10px;"/></a>
     <a href="https://ubuntu.com/" target="_blank"><img src="./images/ubuntu.png" alt="Ubuntu" width="50" style="margin: 10px;"/></a>
 </p>
 
