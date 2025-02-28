@@ -41,24 +41,6 @@
 
 <hr />
 
-<h3 align="center">My Projects:</h3>
-
-<p align="center">
-    <a href="https://github.com/ton-compte/projet1" target="_blank">
-        <button style="padding: 10px 20px; font-size: 16px; margin: 5px; background-color: #4CAF50; color: white; border: none; border-radius: 5px;">
-            <img src="./images/project_icon.png" alt="Project 1" width="20" style="vertical-align: middle; margin-right: 10px;"/> Project 1
-        </button>
-    </a>
-    <a href="https://github.com/ton-compte/projet2" target="_blank">
-        <button style="padding: 10px 20px; font-size: 16px; margin: 5px; background-color: #2196F3; color: white; border: none; border-radius: 5px;">
-            <img src="./images/project_icon.png" alt="Project 2" width="20" style="vertical-align: middle; margin-right: 10px;"/> Project 2
-        </button>
-    </a>
-    <!-- Ajoute plus de projets de la même manière -->
-</p>
-
-<hr />
-
 <h3 align="center">Let's Connect!</h3>
 
 <p align="center">Feel free to reach out to me or explore my repositories. I’m always open to collaboration and learning new things!</p>
