@@ -4,7 +4,7 @@
 
 <hr />
 
-<h2 align="center">Hi, I'm a passionate French developer from Vietnam 💕</h2>
+<h2 align="center">Hi, I'm a passionate French developer 💕</h2>
 
 <p align="center">Currently studying in my first year of MMI, I'm diving into the world of programming and web development!</p>
 
